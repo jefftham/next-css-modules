@@ -2,6 +2,9 @@ import React from 'react'
 import Link from 'next/link'
 
 import Nav from '../components/Nav'
+/**
+ * Button styles not being bundled
+ */
 import Button from '../components/Button'
 
 export default () => (

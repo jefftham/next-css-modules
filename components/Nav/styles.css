@@ -1,9 +1,9 @@
-.root {
+.root2 {
 	display: flex;
 	background-color: rebeccapurple;
 }
 
-.root > * {
+.root2 > * {
 	padding: 5px 10px;
 	color: #fff;
 }

@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 
-import styles from './styles.css'
+import  './styles.css'
 
 export default ({ children }) => (
-    <button className={styles.root}>
+    <button className="root">
         {children}
     </button>
 )
